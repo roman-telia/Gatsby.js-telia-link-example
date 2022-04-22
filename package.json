@@ -16,7 +16,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@teliads/components": "17.2.3",
+    "@teliads/components": "17.2.5",
     "gatsby": "^4.12.1",
     "gatsby-plugin-react-helmet": "^5.12.1",
     "gatsby-plugin-sass": "^5.12.1",
